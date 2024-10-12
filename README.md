@@ -4,7 +4,7 @@
 
 ## Problem Statement
 
-Super store wants to know how well their comapny have been doing for the past 3 years in business and will want to know key insights to focus on for the next year. They also want to build up their customer service by knowing and having a better relationship with their top customers.
+Super store wants to know how well their company have been doing for the past 3 years in business and will want to know key insights to focus on for the next year. They also want to build up their customer service by knowing and having a better relationship with their top customers.
 This dashboard helps the Store understand the trend of their revenue and also know their customers better. It helps the airlines know if their customers are satisfied with their services. Through different areas, they get to know their improvement area, & thus they can improve their services by identifying these area. It also helps them to knwo key products and their category that affect revenue
 
 #
